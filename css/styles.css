@@ -247,7 +247,7 @@ div.heading{
 }
 
 @media only screen and (max-width: 769px){
-    .ImageGallery2 .box{
+    .ImageGallery2 .box2{
     flex-direction: column;
 }
 .ImageGallery2 .box2 .columns2{
